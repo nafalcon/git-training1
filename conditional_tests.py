@@ -24,5 +24,5 @@ print(car.lower() == 'subaru')
 print(car.upper() == 'subaru')
 
 if car != 'audi':
-    print('I prefer Audi.')
+    print('I prefer AUDI.')
 
